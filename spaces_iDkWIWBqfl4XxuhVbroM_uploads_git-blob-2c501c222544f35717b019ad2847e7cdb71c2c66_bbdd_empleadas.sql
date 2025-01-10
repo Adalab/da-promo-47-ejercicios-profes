@@ -1,1 +1,0 @@
-SELECT * FROM bbdd_empleadas.empleadas;
